@@ -7,7 +7,7 @@ The datasets I have used are from the sources below:
   <a href='Microdata.worldbank.org'>WorldBank</a>
   </li>
   <li>
-  qyarterly-edited
-    <a href='download.data.world'></a>
+  quarterly-edited
+    <a href='download.data.world'>Data.World</a>
   </li>
 </ul>
