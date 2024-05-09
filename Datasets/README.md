@@ -6,6 +6,9 @@ The datasets I have used are from the sources below:
   WorldBank
   <a href='Microdata.worldbank.org'>WorldBank</a>
   </li>
+  <li>Currency Rate. Inflation, and GDP Datasets
+  <a href='Microdata.worldbank.org'>WorldBank</a>
+  </li>
   <li>
   quarterly-edited
     <a href='download.data.world'>Data.World</a>
