@@ -1,6 +1,5 @@
 <h1>Afghani CURRENCY FLACTUATIONS</h1>
 <a href="https://github.com/djeada/Data-Structures/blob/master/LICENSE"><img alt="GitHub license" src="https://img.shields.io/github/license/djeada/Data-Structures"></a>
-<h2></h2>Afghani Currency (Currency of former Islamic republic and current Islamic Emirate of Afghanistan)</h2>
 
 
 ## Overview
