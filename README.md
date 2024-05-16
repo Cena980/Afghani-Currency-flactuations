@@ -25,3 +25,7 @@ Similarly, Afghanistan's currency takes a huge fall after the fall of the republ
 
 To follow Chronology of events for Somlia visit the following link:
 <a href="https://www.securitycouncilreport.org/chronology/somalia.php">Security Council Report</a>
+
+![CR graph](https://github.com/Cena980/Currency_Rate/blob/main/Analysis/Afghanistan%20Exchange%20Rate.PNG)
+
+![CR graph](https://github.com/Cena980/Currency_Rate/blob/main/Analysis/Somalia%20CR.PNG)
