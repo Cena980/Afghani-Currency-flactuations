@@ -24,7 +24,7 @@ Similarly, Afghanistan's currency takes a huge fall after the fall of the republ
 
 <div style="align='center';">
 
-Chronology of Events in Afghanistan: <a href="https://www.pbs.org/newshour/politics/asia-jan-june11-timeline-afghanistan">PBS- Afg Timeline</a>
+Chronology of Events in Afghanistan: <a href="https://www.pbs.org/newshour/politics/asia-jan-june11-timeline-afghanistan">PBS- Afghanistan Timeline</a>
 
 
 ![CR graph](https://github.com/Cena980/Currency_Rate/blob/main/Analysis/Afghani%20Exchange%20rate%20in%20the%202000s.png)
