@@ -28,7 +28,6 @@ Chronology of Events in Afghanistan: <a href="https://www.pbs.org/newshour/polit
 
 
 ![CR graph](https://github.com/Cena980/Currency_Rate/blob/main/Analysis/Afghani%20Exchange%20rate%20in%20the%202000s.png)
-![CR graph](https://github.com/Cena980/Currency_Rate/blob/main/Analysis/Afghanistan%20Exchange%20Rate.PNG)
 
 
 To follow Chronology of events for Somlia visit the following link:
