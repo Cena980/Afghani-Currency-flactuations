@@ -32,9 +32,7 @@ Chronology of Events in Afghanistan: <a href="https://www.pbs.org/newshour/polit
 
 
 ![CR graph](https://github.com/Cena980/Currency_Rate/blob/main/Analysis/Somalia%20CR.PNG)
-For detailed information on the periods highlighted in the graph Visit <a href="https://uca.edu/politicalscience/home/research-projects/dadm-project/sub-saharan-africa-region/somalia-1960-present/">Univeristy of Central Arkansas</a> 
-
-
+For detailed information on the periods highlighted in the graph Visit <a href="https://uca.edu/politicalscience/home/research-projects/dadm-project/sub-saharan-africa-region/somalia-1960-present/">Univeristy of Central Arkansas</a> ||
 <a href="https://www.securitycouncilreport.org/chronology/somalia.php">Security Council Report</a>
 Or
 <a href="https://www.bbc.com/news/world-africa-14094632">BBC</a>
