@@ -1,4 +1,4 @@
-<h1>CURRENCY FLACTUATIONS (Afghanistan and Somalia)</h1>
+<h1>CURRENCY RATE (Afghanistan and Somalia)</h1>
 <a href="https://github.com/djeada/Data-Structures/blob/master/LICENSE"><img alt="GitHub license" src="https://img.shields.io/github/license/djeada/Data-Structures"></a>
 
 
