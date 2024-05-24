@@ -22,11 +22,16 @@ Upon cleaning the data found on currency rate, GDP, and inflation, the relations
 Moreover, upon further researches done for relationship of currency rate with the political state of the two countries, I could find valuable insight on how and when the currency rate usually changes. For instance, Somalia had a pretty stable political state from 1960 till 1980 at which period the currency rate for the country has a stable linear graph. However, after the crisis begins, from 1981 the currency rate takes a huge change, the rate falls from 6 to 490 in just a decade.
 Similarly, Afghanistan's currency takes a huge fall after the fall of the republic in Q4 of 2021. The currency goes up to 105 from 77 in just a quarter of the year. 
 
+Chronology of Events in Afghanistan: <a href="https://www.pbs.org/newshour/politics/asia-jan-june11-timeline-afghanistan">PBS- Afg Timeline</a>
+
+
+![CR graph](https://github.com/Cena980/Currency_Rate/blob/main/Analysis/Afghani%20Exchange%20rate%20in%20the%202000s.png)
+![CR graph](https://github.com/Cena980/Currency_Rate/blob/main/Analysis/Afghanistan%20Exchange%20Rate.PNG)
+
 
 To follow Chronology of events for Somlia visit the following link:
 <a href="https://www.securitycouncilreport.org/chronology/somalia.php">Security Council Report</a>
 
-![CR graph](https://github.com/Cena980/Currency_Rate/blob/main/Analysis/Afghanistan%20Exchange%20Rate.PNG)
 
 ![CR graph](https://github.com/Cena980/Currency_Rate/blob/main/Analysis/Somalia%20CR.PNG)
 For detailed information on the periods highlighted in the graph Visit <a href="https://uca.edu/politicalscience/home/research-projects/dadm-project/sub-saharan-africa-region/somalia-1960-present/">Univeristy of Central Arkansas</a> 
