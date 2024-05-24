@@ -26,7 +26,10 @@ Similarly, Afghanistan's currency takes a huge fall after the fall of the republ
 
 Chronology of Events in Afghanistan: <a href="https://www.pbs.org/newshour/politics/asia-jan-june11-timeline-afghanistan">PBS- Afghanistan Timeline</a>
 
+Afghanistan Currency Rate From 1960 - 2020
+![CR graph](https://github.com/Cena980/Currency_Rate/blob/main/Analysis/Afg%20Currency%20Rate%20from%201960%20-%202020.png)
 
+Quarterly Currency Rate from 2001 - 2016
 ![CR graph](https://github.com/Cena980/Currency_Rate/blob/main/Analysis/Afghani%20Exchange%20rate%20in%20the%202000s.png)
 
 
