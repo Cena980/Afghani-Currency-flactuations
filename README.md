@@ -4,7 +4,7 @@
 
 ## Overview
 
-This projects aims to analyze the patterns of currency flactuations in developing countries (Somalia and Afghanistan) since 1960. Through which I am hopeful to relate and correlate factors form inside and outside of the market in Afghanistan and Somalia. The countries have suffered from several political, economical, and agricultural disasters during the mentioned period. Through correlating these facotrs with inner-market changes, this project will determine whether and how impactful the factors have been in causing changes in the currency rate.
+This projects aims to analyze the patterns of currency flactuations in developing countries (Somalia and Afghanistan) since 1960. Through which I am hopeful to relate and correlate factors from inside and outside of the market in Afghanistan and Somalia. The countries have suffered from several political and economical disasters during the mentioned period. Through correlating these facotrs with inner-market changes, this project will determine whether and how impactful the factors have been in causing changes in the currency rate.
 
 
 ## Important Notes
