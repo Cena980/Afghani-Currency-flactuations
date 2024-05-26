@@ -9,9 +9,11 @@
 
 This repository has analyzed the correlation between macroeconomic factors of Inflation, GDP, and currency rate and has moreover found and related political events and how each one has changed currency rate.
 The two correlation charts between macro economic factors are as follows:
-Afghanistan:
-![CR graph](https://github.com/Cena980/Currency_Rate/blob/main/Analysis/Correlation%20Heatmap%20of%20GDP%20and%20Currency%20Rate%20For%20Somalia.png)
+
+
 Somalia:
+![CR graph](https://github.com/Cena980/Currency_Rate/blob/main/Analysis/Correlation%20Heatmap%20of%20GDP%20and%20Currency%20Rate%20For%20Somalia.png)
+Afghanistan
 ![CR graph](https://github.com/Cena980/Currency_Rate/blob/main/Analysis/Correlation%20Heatmap%20of%20GDP%2C%20Inflation%2C%20and%20Currency%20Rate%20for%20Afghanistan.png)
 
 
