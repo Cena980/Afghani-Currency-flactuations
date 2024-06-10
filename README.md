@@ -35,7 +35,7 @@ Afghanistan Currency Rate From 1960 - 2020
 Quarterly Currency Rate from 2001 - 2016
 ![CR graph](https://github.com/Cena980/Currency_Rate/blob/main/Analysis/Afghani%20Exchange%20rate%20in%20the%202000s.png)
 
-# Somalia
+### Somalia
 
 ![CR graph](https://github.com/Cena980/Currency_Rate/blob/main/Analysis/Somalia%20CR.PNG)
 For detailed information on the periods highlighted in the graph Visit <a href="https://uca.edu/politicalscience/home/research-projects/dadm-project/sub-saharan-africa-region/somalia-1960-present/">Univeristy of Central Arkansas</a> ||
